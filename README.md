@@ -5,7 +5,7 @@
 Rain falls where it is actually raining, right now. Radar Rain reads the national radar mosaic every two minutes and turns it into rain shafts, clouds, winds and turbulence in X-Plane, then checks the result against nearby airport reports and satellite cloud cover.
 
 <!-- IMAGE: hero shot, rain shafts in front of the aircraft -->
-![Radar Rain in X-Plane 12]([images/hero.png])
+![Radar Rain in X-Plane 12](images/hero.png)
 
 **[Download the latest version](https://github.com/OwnPCNOOB/radar-rain-releases/releases/latest)**
 
