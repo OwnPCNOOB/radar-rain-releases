@@ -70,7 +70,6 @@ The three lights in the Setup panel tell you where things stand:
 - **Stop** ends the live weather.
 
 <!-- IMAGE: flying through rain at night -->
-![Rain at night](images/night.png)
 
 ---
 
