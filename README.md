@@ -5,7 +5,7 @@
 Rain falls where it is actually raining, right now. Radar Rain reads the national radar mosaic every two minutes and turns it into rain shafts, clouds, winds and turbulence in X-Plane, then checks the result against nearby airport reports and satellite cloud cover.
 
 <!-- IMAGE: hero shot, rain shafts in front of the aircraft -->
-![Radar Rain in X-Plane 12]([images/hero.png](https://imgur.com/a/8OI0xli))
+![Radar Rain in X-Plane 12]([images/hero.png.png](https://imgur.com/a/8OI0xli))
 
 **[Download the latest version](https://github.com/OwnPCNOOB/radar-rain-releases/releases/latest)**
 
@@ -24,10 +24,10 @@ Rain falls where it is actually raining, right now. Radar Rain reads the nationa
 | **Updates itself** | Checks for new versions on start and installs them with one click |
 
 <!-- IMAGE: storm with rain shafts from outside the aircraft -->
-![Storm with rain shafts](images/storm.png)
+![Storm with rain shafts](images/storm.png.png)
 
 <!-- IMAGE: the Radar Rain app window -->
-![The Radar Rain app](images/app.png)
+![The Radar Rain app](images/app.png.png)
 
 ---
 
@@ -50,7 +50,7 @@ Rain falls where it is actually raining, right now. Radar Rain reads the nationa
 > **Windows warning:** Windows may show *"Windows protected your PC"* because the app is not code-signed. Click **More info**, then **Run anyway**.
 
 <!-- IMAGE: the Setup panel with green status lights -->
-![Setup panel](images/setup.png)
+![Setup panel](images/setup.png.png)
 
 The three lights in the Setup panel tell you where things stand:
 
